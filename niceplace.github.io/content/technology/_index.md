@@ -1,0 +1,4 @@
+---
+showTags: true
+showPagination: true
+---

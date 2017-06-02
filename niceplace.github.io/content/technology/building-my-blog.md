@@ -8,20 +8,16 @@ tags: [ "technology", "development", "java", "ansible", "python", "linux", "ubun
 categories: ["index", "technology", "development"]
 keywords: [ "technology", "development", "index"]
 clearReading: false
-thumbnailImage: https://static.pexels.com/photos/147485/pexels-photo-147485.jpeg
-thumbnailImagePosition: bottom
+thumbnailImage: ../images/BuildingmyblogwithHugo.png
+thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center
-coverImage: https://static.pexels.com/photos/104916/pexels-photo-104916.jpeg
-coverCaption: "A dreamy landscape"
-coverMeta: out
-coverSize: partial
-comments: false
-showTags: true
-showPagination: true
+comments: true
 showSocial: false
 showDate: true
 ---
+An in-depth review of how I learned to use and customize Hugo as well as a theme of my choosing.
+<!--more-->
 
 # Hugo
 https://github.com/spf13/hugo/issues/1582
