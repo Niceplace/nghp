@@ -4,6 +4,8 @@ type: "post"
 description: "Documentation of how I learned to use and customize hugo and the tranquilpeaks theme"
 date: 2017-05-27
 publishdate: 2017-05-27
+showDate: true
+draft: true
 tags: [ "technology", "development", "java", "ansible", "python", "linux", "ubuntu" ]
 categories: ["index", "technology", "development"]
 keywords: [ "technology", "development", "index"]
