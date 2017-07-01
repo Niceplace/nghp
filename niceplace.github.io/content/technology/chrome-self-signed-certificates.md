@@ -9,7 +9,7 @@ tags: ["security", "linux", "ubuntu", "ssl", "certificates"]
 categories: ["sysadmin"]
 keywords: ["security", "linux", "ubuntu", "ssl", "certificates"]
 clearReading: false
-thumbnailImage: http://res.cloudinary.com/niceplace-github-io/image/upload/v1496551133/Chromev58andself-signedcertificates_edmbxz.png
+thumbnailImage: https://res.cloudinary.com/niceplace-github-io/image/upload/v1496551133/Chromev58andself-signedcertificates_edmbxz.png
 thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center
