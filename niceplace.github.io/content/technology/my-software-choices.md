@@ -2,15 +2,14 @@
 title: "Ansible and my development enviroment"
 type: "post"
 description: "What I am using (software, configuration) in my development enviroment"
-date: 2017-06-20
-publishdate: 2017-05-20
+date: 2017-07-01
+publishdate: 2017-07-01
 showDate: true
-draft: true
 tags: [ "technology", "configuration", "ansible", "chef", "puppet", "linux", "ubuntu" ]
-categories: ["index", "technology", "development"]
-keywords: [ "technology", "development", "index"]
+categories: ["sysadmin"]
+keywords: [ "technology", configuration", "ansible"]
 clearReading: false
-thumbnailImage: ../images/Mydevelopmentenvironment.png
+thumbnailImage: https://res.cloudinary.com/niceplace-github-io/image/upload/v1496551133/Mydevelopmentenvironment_taqrb2.png
 thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center
